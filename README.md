@@ -80,7 +80,7 @@ A dashboard criada inclui:
 - Identificação do dispositivo conectado
 
 > **Figura 1 – Gráfico de Telemetria no Ubidots**  
-> ![]()
+> ![Gráfico](asset/Grafico.jpeg)
 
 O gráfico permitiu observar oscilações naturais, quedas abruptas em ambientes críticos e recuperação rápida ao retornar para áreas abertas.
 
