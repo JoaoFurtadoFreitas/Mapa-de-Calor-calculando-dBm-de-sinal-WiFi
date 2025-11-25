@@ -1,4 +1,8 @@
 # Projeto IoT de Monitoramento de Intensidade de Sinal Wi-Fi (RSSI) com ESP32 e MQTT
+## Autores
+ - **Catarina Sayuri Felipe**
+- **João Vitor Furtado de Freitas**
+- **Nicole Riedla Neves**
 ## Introdução
 
 &nbsp;Este projeto tem como objetivo desenvolver um sistema IoT capaz de monitorar em tempo real a intensidade do sinal Wi-Fi (RSSI) utilizando um microcontrolador ESP32, publicar esses dados em uma plataforma online via MQTT e analisá-los em um gráfico contínuo (tempo × dBm).
